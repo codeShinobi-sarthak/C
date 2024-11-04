@@ -1,0 +1,3 @@
+student name : sarthak
+student age: 78
+student cgpa: 9.000000
